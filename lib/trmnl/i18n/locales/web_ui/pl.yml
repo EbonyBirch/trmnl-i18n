@@ -1341,7 +1341,7 @@ pl:
       repeats_yearly: Co roku
       add: Ustaw własny harmonogram
       some_schedule: Wyświetlaj ten ekran w okresie…
-      alias_one_minute_needs_cache_off: To show this for 1 minute, set "Enable cache?" to No in this Alias's settings. With the cache on, the image only changes once a day.
+      alias_one_minute_needs_cache_off: Aby wyświetlić ten ekran przez 1 minutę, wyłącz ustawienie "Włączyć buforowanie?" w ustawieniach tego Aliasu. Z włączonym buforowaniem, obraz będzie zmieniał się raz dziennie.
   upgrade:
     index:
       title: 'Aktualizowanie urządzenia:'
