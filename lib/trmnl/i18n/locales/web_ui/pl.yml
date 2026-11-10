@@ -373,10 +373,8 @@ pl:
     plugins:
       title: Pluginy
       cta: Przejdź do pluginów
-      connected: Połączono
-      new_and_popular: Nowe i popularne
       recently_published: Ostatnio opublikowane
-      connected_count: "Połączonych: %{count}"
+      connected_count: 'Połączonych: %{count}'
     shop:
       title: Sklep
       another_trmnl: Potrzebujesz kolejnego urządzenia TRMNL?
@@ -617,7 +615,6 @@ pl:
       copy_playlist_from_device: Źródło
       copy_playlist_to_device_label: Cel
       copy_playlist_non_destructive: Żadne istniejące elementy playlisty nie zostaną usunięte.
-      target_device: Urządzenie docelowe
     clear_playlist:
       success: Playlista urządzenia %{device} została wyczyszczona.
     copy_playlist:
@@ -1344,6 +1341,7 @@ pl:
       repeats_yearly: Co roku
       add: Ustaw własny harmonogram
       some_schedule: Wyświetlaj ten ekran w okresie…
+      alias_one_minute_needs_cache_off: To show this for 1 minute, set "Enable cache?" to No in this Alias's settings. With the cache on, the image only changes once a day.
   upgrade:
     index:
       title: 'Aktualizowanie urządzenia:'
@@ -3357,9 +3355,9 @@ pl:
       color-12bit: Kolorowa (4096 kolorów)
       color-24bit: Kolorowa (16777216 kolorów)
     summary:
-      font_family: "Rodzina czcionek: %{value}"
-      text_scale: "Skala tekstu: %{value}"
-      theme: "Motyw: %{value}"
+      font_family: 'Rodzina czcionek: %{value}'
+      text_scale: 'Skala tekstu: %{value}'
+      theme: 'Motyw: %{value}'
     text_scales:
       small: Mała
       regular: Standardowa

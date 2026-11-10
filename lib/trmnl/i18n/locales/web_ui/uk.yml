@@ -383,8 +383,6 @@ uk:
     plugins:
       title: Плагіни
       cta: Перейти до плагінів
-      connected: Підключено
-      new_and_popular: Нові та популярні
       recently_published: Recently Published
       connected_count: "%{count} connected"
     shop:
@@ -633,7 +631,6 @@ uk:
       copy_playlist_from_device: З
       copy_playlist_to_device_label: До
       copy_playlist_non_destructive: Наявні елементи списку відтворення не буде видалено.
-      target_device: Цільовий пристрій
     clear_playlist:
       success: Список відтворення пристрою %{device} очищено.
     copy_playlist:
@@ -1368,6 +1365,7 @@ uk:
       repeats_yearly: Щороку
       add: Задати власний розклад
       some_schedule: Показувати цей екран під час…
+      alias_one_minute_needs_cache_off: To show this for 1 minute, set "Enable cache?" to No in this Alias's settings. With the cache on, the image only changes once a day.
   upgrade:
     index:
       title: 'Оновлення пристрою:'
